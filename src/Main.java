@@ -4,7 +4,7 @@ public class Main {
         int initialAccount = 200;
         int refill = 1100;
 
-        int bonus = 11;
+        int bonus = 0;
         if (refill > 1000) {
             bonus = refill / 100;
         }
